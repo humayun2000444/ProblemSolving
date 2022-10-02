@@ -4,7 +4,6 @@ using namespace std;
 int main()
 {
     int n,t,k,i,j;
-    char c='A';
     cin >> t;
     while(t--)
     {
